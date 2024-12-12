@@ -1,0 +1,55 @@
+body {
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(0, 0, 0, 0.925);
+    padding: 40px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+form {
+    background-color: rgb(255, 255, 255); 
+    padding: 20px;
+    border-radius: 20px;
+    width: 300px;
+    margin: auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #000000;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.enviar{
+    width: 49%;
+    padding: 10px;
+    font-weight: bold;
+    background-color: #00b0b6;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+}
+
+.restablecer{
+    width: 49%;
+    padding: 10px;
+    font-weight: bold;
+    background-color: #c9c500;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+}
